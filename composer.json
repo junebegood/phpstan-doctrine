@@ -1,5 +1,5 @@
 {
-	"name": "junebegood/phpstan-doctrine",
+	"name": "phpstan/phpstan-doctrine",
 	"description": "Doctrine extensions for PHPStan",
 	"license": ["MIT"],
 	"minimum-stability": "dev",
